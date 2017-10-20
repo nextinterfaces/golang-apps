@@ -1,5 +1,5 @@
 # golang-apps
-Golang exploratory repo 
+Golang exploratory repository
 
     $ go build
 
